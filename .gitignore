@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Kube.Sample.Api/.vs/Kube.Sample.Api
+/Kube.Sample.Api/obj
