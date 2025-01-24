@@ -5,3 +5,4 @@
 /.vs
 /Kube.Sample.Api/.vs/Kube.Sample.Api
 /Kube.Sample.Api/obj
+/Kube.Sample.Api/bin/Debug/net8.0
